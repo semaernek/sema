@@ -1,47 +1,15 @@
 # Hi, I'm Sema 👋
 
-I'm Atlanta based data analyst who is  interested in turning messy data into clear answers, building useful analytics, and finding the story behind the numbers.
+**Data Analytics | Product Management | Business Intelligence**
 
-## 🛠️ My Toolbox
+I'm a data analytics professional with 13+ years of experience turning business questions into data-driven solutions and actionable insights.
 
-**Data & Analytics**
+My experience spans **e-commerce, banking, and insurance**, with a focus on analytics, engineering, BI, product management, and improving the way teams make decisions. I also have experience leading analytics teams and working in Agile/Scrum environments.
 
-* SQL
-* Python
-* Business Analytics
-* Product Analytics
-* Customer Analytics
-* Clickstream Analytics
-* A/B Testing
-
-**Data Platforms**
-
-* BigQuery
-* GCP
-* Snowflake
-* dbt
-* ETL / ELT
-* Data Modeling
-* Data Warehousing
-
-**BI & Visualization**
-
-* Power BI
-* Tableau
-* Looker
-* Looker Studio
-* SAP BusinessObjects
-* Qlik Sense
-
-**Other Tools**
-
-* GitHub / GitLab
-* VS Code
-* Jira
-* Scrum / Agile
+Currently based in **Atlanta, GA 🇺🇸**
 
 ## 🔗 Let's Connect
 
-* **LinkedIn:** [www.linkedin.com/in/sema-karakaya]
-
-* **GitHub:** [https://github.com/semaernek/]
+* **LinkedIn:** [linkedin.com/in/sema-karakaya](https://www.linkedin.com/in/sema-karakaya)
+* **GitHub:** [github.com/semaernek](https://github.com/semaernek)
+[<img src="https://cdn.simpleicons.org/github" width="25" height="25" />](https://github.com/semaernek)
